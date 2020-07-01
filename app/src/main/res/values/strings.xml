@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Rushabh Prajapati Practice</string>
+    <string name="lbl_username">Username</string>
+    <string name="lbl_designation">Designation</string>
+    <string name="lbl_likes">Likes</string>
+    <string name="lbl_comments">Comments</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_url">URL</string>
 </resources>
